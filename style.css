@@ -4,3 +4,10 @@ body {
     background-image: url();
 }
 
+h2.container-fluid {
+    border-bottom: 1px solid #ddd;
+}
+
+footer {
+    border-top: 8px solid #4aaaa5;
+}
