@@ -12,9 +12,9 @@ body {
 /* Give name teal background and white font */
 .navbar-brand {
     background-color: #4aaaa5;
-    color: #fff;
+    color: #fff !important;
     font-size: 36px;
-
+    padding: 25px;
 }
 
 h2.container-fluid {
