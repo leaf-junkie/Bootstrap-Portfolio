@@ -1,13 +1,29 @@
 /* CSS styling for Bootstrap Portfolio */
 
 body {
-    background-image: url();
+    background-image: url(brickwall\brickwall_@2X.png);
+}
+
+/* Give the header a border */
+.navbar {
+    border-bottom: 2px solid #ccc;
+}
+
+/* Give name teal background and white font */
+.navbar-brand {
+    background-color: #4aaaa5;
+    color: #fff;
+    font-size: 36px;
+
 }
 
 h2.container-fluid {
     border-bottom: 1px solid #ddd;
+    color: #4aaaa5;
 }
 
+/* Give footer dark background and teal border */
 footer {
     border-top: 8px solid #4aaaa5;
+    background-color: #666;
 }
