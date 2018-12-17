@@ -1,7 +1,8 @@
 /* CSS styling for Bootstrap Portfolio */
 
 body {
-    background-image: url(brickwall\brickwall_@2X.png) !important;
+    background-image: url(../assets/images/stardust.png);
+    color: #444;
 }
 
 /* Give the header a border */
@@ -9,19 +10,20 @@ body {
     border-bottom: 2px solid #ccc;
     padding: 0rem;
     margin-bottom: 5%;
+    background-color: #fff;
 }
 
 /* Give name teal background and white font */
 .navbar-brand {
-    background-color: #4aaaa5;
+    background-color: #4bd1ca;
     color: #fff !important;
     font-size: 36px;
     padding: 25px;
 }
 
 h2.container-fluid {
-    border-bottom: 1px solid #ddd;
-    color: #4aaaa5;
+    border-bottom: 2px solid #EF6441;
+    color: #4bd1ca;
     padding-bottom: 4%;
 }
 
@@ -37,6 +39,7 @@ h2.container-fluid {
     margin: auto;
     padding: 4%;
     border: 1px solid #ddd;
+    background-color: #fff;
 }
 
 /* ABOUT */
@@ -53,7 +56,7 @@ p {
 
 /* Make the card titles teal with white text */
 .card-title {
-    background-color: #4aaaa5;
+    background-color: #4bd1ca;
     color: #fff;
     padding: 20px;
 }
@@ -75,12 +78,12 @@ form {
 }
 
 button {
-    background-color: #4aaaa5;
+    background-color: #4bd1ca;
     color: #fff;
 }
 
 /* Give footer dark background and teal border */
 footer {
-    border-top: 8px solid #4aaaa5;
-    background-color: #666;
+    border-top: 8px solid #4bd1ca;
+    background-color: #999;
 }
