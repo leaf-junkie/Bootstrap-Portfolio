@@ -1,7 +1,7 @@
 /* CSS styling for Bootstrap Portfolio */
 
 body {
-    background-image: url(brickwall\brickwall_@2X.png);
+    background-image: url(brickwall\brickwall_@2X.png) !important;
 }
 
 /* Give the header a border */
